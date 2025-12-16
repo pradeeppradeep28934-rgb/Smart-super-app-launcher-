@@ -1,0 +1,1 @@
+LaunchX is a simple and smart web-based app launcher that allows users to quickly open popular websites from one place. It includes search functionality, dark mode, responsive grid layout, and an app usage counter for better user experience.
